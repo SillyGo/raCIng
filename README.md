@@ -135,8 +135,8 @@ Também aprendemos como as boas práticas de programação fazem diferença num 
 Conseguimos pontuar também como lição que se houver motivação o bastante, o impossível é o limite, pois com esse prazo do projeto conseguimos aprender e desenvolver 2 jogos utilizando basicamente o conhecimento disponibilizado no youtube. 
 Então vê-se que a disciplina de IP foi eficiente em passar à nós alunos a lógica pelo menos introdutória do que seria programar, pois como bem foi dito na primeira aula, sintaxe é somente uma pesquisa, um texto, o que é realmente importante é aprender a pensar como programador e assim conseguir desenvolver tais projetos.
 
-#CAPTURAS DE TELA
-##2D
+# CAPTURAS DE TELA
+## 2D
 ![f992004e-80b1-4178-83be-18e710ac3b42](https://github.com/user-attachments/assets/f001f0de-5ea9-40a1-a1c3-adc222078317)
 Tela Inicial 2D
 
@@ -157,7 +157,7 @@ Itens coletáveis e HUD
 Cadastro do jogador
 
 
-##3D
+## 3D
 ![75dbdb5b-8929-42e5-a26b-39c5970bcda4](https://github.com/user-attachments/assets/46ab1f53-a3f5-44a2-942f-f5856e2f0623)
 Tela de Menu 3D
 
