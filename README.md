@@ -2,11 +2,18 @@
 
 Equipe:
 
-Arthur Calabria - acvmg
-Filipe Santos - fsc5
-João Henrique - jhmg
-Lucas Felipe - lfla2
+Arthur Calabria - acvmg 
+
+Filipe Santos - fsc5 
+
+João Henrique - jhmg 
+
+Lucas Felipe - lfla2 
+
 Luis Eduardo - lelb2
+
+
+
 
 
 
@@ -45,6 +52,9 @@ Time, no 3D, foi utilizada de modo a criar os delays utilizados para criar deter
 ### - OS.PATH:
 Utilizada somente no 2D, com o módulo “.join()” a fim de auxiliar a importação de arquivos de imagem, som e fontes de texto.
 
+
+
+
 # - DIVISÃO DO TRABALHO
 ### - 2D
 Programador principal: jhmg;
@@ -53,6 +63,9 @@ Programadores auxiliares: fsc5, lfla2 e lelb2.
 Programador principal: acvmg;
 Programadores auxiliares: jhmg, fsc5, lfla2 e lelb2.
 Design de sprites e telas: lelb2, lfla2 e fsc5.
+
+
+
 
 # - CONCEITOS APRESENTADOS PELA DISCIPLINA E UTILIZADOS NO PROJETO
 Durante a disciplina de IP(Introdução a Programação), introdução a programação, vários métodos de armazenar dados, loops, organização do código foram apresentados. Durante o projeto é notável o uso de estruturas como:
@@ -136,6 +149,9 @@ Aprendemos a necessidade de manter uma comunicação clara e eficiente com os me
 Também aprendemos como as boas práticas de programação fazem diferença num código extenso, pois quando precisamos alterar dados, imagens e etc… sentimos uma grande dificuldade pois o código não se mostrava bem dividido e com algumas coisas confusas para quem não tinha o olhar treinado.
 Conseguimos pontuar também como lição que se houver motivação o bastante, o impossível é o limite, pois com esse prazo do projeto conseguimos aprender e desenvolver 2 jogos utilizando basicamente o conhecimento disponibilizado no youtube. 
 Então vê-se que a disciplina de IP foi eficiente em passar à nós alunos a lógica pelo menos introdutória do que seria programar, pois como bem foi dito na primeira aula, sintaxe é somente uma pesquisa, um texto, o que é realmente importante é aprender a pensar como programador e assim conseguir desenvolver tais projetos.
+
+
+
 
 # CAPTURAS DE TELA
 ## 2D
