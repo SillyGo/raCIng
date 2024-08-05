@@ -13,7 +13,10 @@ Lucas Felipe - lfla2
 Luis Eduardo - lelb2
 
 
-
+# Como rodar o jogo
+       1. Instale o Python na sua máquina.
+       2. Instale as bibliotecas: Pygame, Pygame-ce, Numba, Numpy. No terminal: (pip install {nome_da_biblioteca})
+       3. Dê inicio ao arquivo Final_game.py
 
 
 
