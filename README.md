@@ -16,7 +16,20 @@ Luis Eduardo - lelb2
 # Como rodar o jogo
        1. Instale o Python na sua máquina.
        2. Instale as bibliotecas: Pygame, Pygame-ce, Numba, Numpy. No terminal: (pip install {nome_da_biblioteca})
-       3. Dê inicio ao arquivo Final_game.py
+       3. Dê inicio ao arquivo 'final_game.py'.
+
+# Guia para jogar
+## 2D
+    A - Movimentar para esquerda
+    D - Movimentar para direita
+    SPACE - Ativar nitro
+    S - Usar pílula de redução
+    R - Usar estrela mágica
+## 3D
+    A - Movimentar para esquerda
+    D - Movimentar para direita
+    P - Usar poder da vez
+    
 
 
 
