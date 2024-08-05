@@ -114,7 +114,7 @@ Acreditamos que os maiores erros durante o desenvolvimento do jogo tem a ver com
 ### - COMO SUPERAMOS
 Ao passar do tempo começamos a fazer uma comunicação mais eficiente e uma divisão de tarefas mais inteligente, de forma a integrar mais facilmente o trabalho de mais de um programador, assim com o uso do github e novas formas de trabalhar em equipe conseguimos nos organizar e diminuir esses problemas. 
 
-###- MAIOR DESAFIO
+### - MAIOR DESAFIO
 Os maiores desafios do projeto foram provavelmente aprender a utilizar o pygame, cuja sintaxe e lógica eram completamente diferentes ao que estávamos habituados, além de aprender sobre Programação Orientada a Objetos(POO) que não tivemos uma lista para treinar esse conteúdo, e apesar de se utilizar somente o básico inicialmente foi uma barreira, além disso o jogo 3D representou um grande desafio pois ele é extenso em relação tanto a lógica e algoritmo quanto em relação à matemática.
 COMO SUPERAMOS
 A forma que encontramos para superar foi inicialmente buscar conhecimento sobre como e com o que estávamos trabalhando, então passamos os primeiros dias estudando e tendo ideias do que fazer em relação ao jogo de corrida.
