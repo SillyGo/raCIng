@@ -102,7 +102,7 @@ E o exemplo de uso “obrigatório” pelo pygame para criar o loop do jogo util
 
 (Racing 2D)
 
-# - CONDICIONAIS
+### - CONDICIONAIS
 Provavelmente as estruturas mais utilizadas em ambos os jogos, são vitais para o funcionamento do jogo e foram utilizadas em todo o escopo dos dois jogos. conhecimento adquirido na lista de condicionais.
 
 (Racing 2D)
