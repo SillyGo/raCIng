@@ -65,20 +65,23 @@ Durante a disciplina de IP(Introdução a Programação), introdução a program
 ### - LISTAS
 Listas foram amplamente utilizadas nas telas de Highscore para manipular a pontuação utilizando de sort() e sort(reverse=true), também utilizou-se o pop e o insert para manipular essas listas e salvar posteriormente no documento TXT.
 ![image](https://github.com/user-attachments/assets/ce99265a-1223-4c6e-b5b8-625d6eecd2aa)
-
-
 (vê - se o uso de listas e manipulação das mesmas no nosso código no módulo scores.scorepage).
+
 Observa-se também um vasto uso de listas no armazenamento de coordenadas no caso do jogo 3D(Racing 3D) e no armazenamento e manipulação de sprites em ambos os jogos. conhecimento abordado na lista de listas.
 
 ### - TUPLAS
 Tuplas também são estruturas que foram vastamente utilizadas em nosso código, principalmente porque o próprio pygame exigia o uso de tuplas em vários de seus comandos, mas além disso, o trajeto das IA’s no Racing 3D usa uma lista de tuplas, conhecimento abordado na lista de tuplas e dicionários
+![image](https://github.com/user-attachments/assets/76053784-a2b5-42b7-9493-1fcd13de7ca2)
 
 (Racing 3D)
+
 Um exemplo do uso de tuplas em nosso código na trajetória das IA 's como mencionado anteriormente.
 
 ### - FUNÇÕES
 Funções são estruturas de organização que foram amplamente utilizadas em todo o escopo dos códigos pois gera variáveis temporárias e consegue dividir bem o código, foi usada amplamente também nos módulos, principalmente utilizando o retorno para determinar se o jogo deveria ser jogado novamente.conhecimento abordado na lista de funções.
+![image](https://github.com/user-attachments/assets/f655aace-8ad7-4a09-900c-e39390f0c666)
 
+![image](https://github.com/user-attachments/assets/c2037fa9-827c-48da-8e87-79116270763f)
 
 No primeiro caso um uso de função nos módulos do jogo e no segundo um caso de uso de função no escopo principal ,“Main” , do código.
 (Tela de encerramento Racing 3D  e função do código principal de Racing 3D
@@ -86,29 +89,35 @@ No primeiro caso um uso de função nos módulos do jogo e no segundo um caso de
 
 ### - RECURSÕES
 Recursões foram utilizadas em situações em que os loops for e while não conseguiam fazer certas operações, como a criação aleatória das coordenadas de itens e das moedas.conhecimento da lista de recursões
-
-aqui é um dos exemplos de uso de recursões.(Racing 3D)
+![image](https://github.com/user-attachments/assets/e8d5c0bd-30eb-45f8-adfa-062a56efda31)
+acima temos exemplos de uso de recursões.(Racing 3D)
 
 ### - LOOPS
 Loops foram amplamente utilizados por todo o código em ambos os jogos, pois até para iniciar a tela do pygames era necessário um “While True:”, porém usos mais específicos são vistos na leitura dos arquivos do documento TXT e passando essas informações para as listas usando a estrutura FOR.Conhecimento adquirido na lista de Laços de repetição.
 
+![image](https://github.com/user-attachments/assets/c4248fd3-8424-4790-b324-18b6bbe1a285)
 
 (Racing 2D)
 Também utilizados na importação de Sprites,usando novamente a estrutura FOR
+![image](https://github.com/user-attachments/assets/6f961f70-d77e-415f-8249-f52c106ba044)
 
 (Racing 2D)
 Exemplo do uso da estrutura WHILE para ativar a invisibilidade do player
 
+![image](https://github.com/user-attachments/assets/b0a9f435-da40-4255-9386-1847bd59671a)
+
 (Racing 3D)
 E o exemplo de uso “obrigatório” pelo pygame para criar o loop do jogo utilizando o “while true”,porém sua variável era running para permitir o uso de retornos para definir o fim do jogo.
+![image](https://github.com/user-attachments/assets/b7302a09-1d97-48e2-883c-8b262d80357b)
 
 (Racing 2D)
 
 ### - CONDICIONAIS
 Provavelmente as estruturas mais utilizadas em ambos os jogos, são vitais para o funcionamento do jogo e foram utilizadas em todo o escopo dos dois jogos. conhecimento adquirido na lista de condicionais.
+![image](https://github.com/user-attachments/assets/f8b676ce-b3cf-487d-9079-146034905c2e)
 
 (Racing 2D)
-um dos incontáveis usos de condicional no item da pílula de encolhimento
+Um dos incontáveis usos de condicional no item da pílula de encolhimento
 
 # - ERROS, DESAFIOS E LIÇÕES APRESENTADOS PELO PROJETO
 ### - MAIOR ERRO
