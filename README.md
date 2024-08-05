@@ -2,10 +2,15 @@
 
 Equipe:
 Arthur Calabria - acvmg
+
 Filipe Santos - fsc5
+
 João Henrique - jhmg
+
 Lucas Felipe - lfla2
+
 Luis Eduardo - lelb2
+
 
 
 # - ARQUITETURA E ORGANIZAÇÃO DO CÓDIGO
