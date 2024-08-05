@@ -137,36 +137,44 @@ Então vê-se que a disciplina de IP foi eficiente em passar à nós alunos a l�
 
 # CAPTURAS DE TELA
 ## 2D
-Tela Inicial 2D
+### Tela Inicial 2D
 ![f992004e-80b1-4178-83be-18e710ac3b42](https://github.com/user-attachments/assets/f001f0de-5ea9-40a1-a1c3-adc222078317)
 
-Modo Fantasma
+
+### Modo Fantasma
 ![9617abaf-7501-4887-af22-36236fbea347](https://github.com/user-attachments/assets/12305ea2-8cb9-43c1-8f24-cc0c4dce0452)
 
-Pilha de Redução
+
+### Pilha de Redução
 ![39d541df-0eb2-4a17-b8d1-92ad85ca4e67](https://github.com/user-attachments/assets/228a3cc2-d2f6-4513-bedb-8c0bf96a7570)
 
-Itens coletáveis e HUD
+
+### Itens coletáveis e HUD
 ![image](https://github.com/user-attachments/assets/93328e57-89aa-457c-b39c-7a409b7be75f)
 
-Cadastro do jogador
+
+### Cadastro do jogador
 ![9fb83961-9c5a-4045-a82e-a877cb6e15af](https://github.com/user-attachments/assets/06f976b0-250d-434e-89fb-f0c523519601)
 
 
 ## 3D
-Tela de Menu 3D
+### Tela de Menu 3D
 ![75dbdb5b-8929-42e5-a26b-39c5970bcda4](https://github.com/user-attachments/assets/46ab1f53-a3f5-44a2-942f-f5856e2f0623)
 
-Itens coletáveis
+
+### Itens coletáveis
 ![c454d19e-7a41-4ee8-8b07-3db2cde1c478](https://github.com/user-attachments/assets/2aefd01d-4e4c-4837-9a65-a8ff12cf5691)
 
-Óleo e NPCs
+
+### Óleo e NPCs
 ![a52d8056-a38a-4976-890d-c496a6d95459](https://github.com/user-attachments/assets/a7d64f8c-4840-4386-b37c-ffefe33ce925)
 
-Tela de Highscore
+
+### Tela de Highscore
 ![137352f8-89a9-44ab-8291-61fa9e2309b2](https://github.com/user-attachments/assets/2282db87-78f9-4b18-9e77-c2e0ba545d6c)
 
-Modo Fantasma
+
+### Modo Fantasma
 ![image](https://github.com/user-attachments/assets/9a250e79-b123-4dc0-b28f-1f320666b8cd)
 
 
