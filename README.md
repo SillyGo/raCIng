@@ -216,8 +216,9 @@ Então vê-se que a disciplina de IP foi eficiente em passar à nós alunos a l�
 
 
 # Bibliografia
-UNIVERSE, 8 Bit. Axel F [8 Bit Tribute to Crazy Frog]. Disponível em: https://youtu.be/PJuknlErv9A?si=tMLk561CTR3VkE-6
-NINTENDO. Super Mario Kart - Mario Circuit 1.Reproduzido por WHITE-JET. Disponível em: https://www.spriters-resource.com/snes/smariokart/sheet/85016/?source=genre
+   UNIVERSE, 8 Bit. Axel F [8 Bit Tribute to Crazy Frog]. Disponível em: https://youtu.be/PJuknlErv9A?si=tMLk561CTR3VkE-6
+   
+   NINTENDO. Super Mario Kart - Mario Circuit 1.Reproduzido por WHITE-JET. Disponível em: https://www.spriters-resource.com/snes/smariokart/sheet/85016/?source=genre
 
 
 
