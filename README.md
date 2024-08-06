@@ -16,7 +16,7 @@ Luis Eduardo - lelb2
 # Como rodar o jogo
        1. Instale o Python na sua máquina.
        2. Instale as bibliotecas: Pygame, Pygame-ce, Numba, Numpy. No terminal: (pip install {nome_da_biblioteca})
-       3. Dê inicio ao arquivo 'final_game.py'.
+       3. Usando sua IDE, inicialize o arquivo 'final_game.py'.
 
 # Guia para jogar
 ## 2D
@@ -212,6 +212,9 @@ Então vê-se que a disciplina de IP foi eficiente em passar à nós alunos a l�
 ![image](https://github.com/user-attachments/assets/9a250e79-b123-4dc0-b28f-1f320666b8cd)
 
 
+# Bibliografia
+UNIVERSE, 8 Bit. Axel F [8 Bit Tribute to Crazy Frog]. Disponível em: https://youtu.be/PJuknlErv9A?si=tMLk561CTR3VkE-6
+NINTENDO. Super Mario Kart - Mario Circuit 1.Reproduzido por WHITE-JET. Disponível em: https://www.spriters-resource.com/snes/smariokart/sheet/85016/?source=genre
 
 
 
