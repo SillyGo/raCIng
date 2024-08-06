@@ -74,10 +74,13 @@ Utilizada somente no 2D, com o módulo “.join()” a fim de auxiliar a importa
 # - DIVISÃO DO TRABALHO
 ### - 2D
 Programador principal: jhmg;
+
 Programadores auxiliares: fsc5, lfla2 e lelb2.
 ### - 3D
 Programador principal: acvmg;
-Programadores auxiliares: jhmg, fsc5, lfla2 e lelb2.
+
+Programadores auxiliares: jhmg, fsc5, lfla2 e lelb2;
+
 Design de sprites e telas: lelb2, lfla2 e fsc5.
 
 
